@@ -1,0 +1,5 @@
+# descrizione dir 
+tmp
+
+# descrizione estensioni
+*.log

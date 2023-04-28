@@ -1,0 +1,5 @@
+# descrizione estensioni
+*.log
+
+# descrizione eccezioni e files
+!debug.log
